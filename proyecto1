@@ -1,12 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+}
+</style>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Heading 1 (center)</h1>
+	
+<center>Hola, estoy centrado con una etiqueta sencilla</center>
+
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ul>  
+  
+
+<h2>Heading 2 (left)</h2>
+<h3>Heading 3 (right)</h3>
+
+<p>The three headings above are aligned center, left and right.</p>
 
 </body>
 </html>
